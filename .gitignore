@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+.coverage
+.coverage.*
+.env
+.DS_Store
+Thumbs.db
+*.swp
+# Do not ignore report/ or presentation/ deliverables.

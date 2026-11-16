@@ -1,0 +1,20 @@
+name: Scaffold checks (NOT algorithm certification)
+on:
+  push:
+  pull_request:
+jobs:
+  python-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install test dependencies
+        run: python -m pip install -e '.[dev]'
+      - name: Compile Python
+        run: python -m compileall -q src tests scripts
+      - name: Run checks and example tests
+        run: python -m pytest -q
+      - name: Reminder
+        run: echo 'Green checks do NOT mean pending task implementations are complete. Review skipped tests.'

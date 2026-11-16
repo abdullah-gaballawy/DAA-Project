@@ -1,0 +1,38 @@
+{
+  "notice": "Draft INPUTS ONLY - no solver output or pass/fail claims",
+  "cases": [
+    {
+      "n": 2,
+      "missing1": [
+        0,
+        0
+      ],
+      "missing2": [
+        0,
+        1
+      ]
+    },
+    {
+      "n": 4,
+      "missing1": [
+        0,
+        0
+      ],
+      "missing2": [
+        3,
+        2
+      ]
+    },
+    {
+      "n": 3,
+      "missing1": [
+        0,
+        0
+      ],
+      "missing2": [
+        0,
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "notice": "Draft INPUTS ONLY - no solver output or pass/fail claims",
+  "cases": [
+    {
+      "testers": 10
+    },
+    {
+      "testers": 8
+    },
+    {
+      "testers": 7
+    }
+  ]
+}

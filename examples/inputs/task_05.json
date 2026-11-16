@@ -1,0 +1,94 @@
+{
+  "notice": "Draft INPUTS ONLY - no solver output or pass/fail claims",
+  "cases": [
+    {
+      "n": 3,
+      "friends": [
+        [
+          false,
+          true,
+          true
+        ],
+        [
+          true,
+          false,
+          true
+        ],
+        [
+          true,
+          true,
+          false
+        ]
+      ]
+    },
+    {
+      "n": 4,
+      "friends": [
+        [
+          false,
+          true,
+          true,
+          true
+        ],
+        [
+          true,
+          false,
+          true,
+          true
+        ],
+        [
+          true,
+          true,
+          false,
+          true
+        ],
+        [
+          true,
+          true,
+          true,
+          false
+        ]
+      ]
+    },
+    {
+      "n": 5,
+      "friends": [
+        [
+          false,
+          true,
+          true,
+          true,
+          true
+        ],
+        [
+          true,
+          false,
+          true,
+          true,
+          true
+        ],
+        [
+          true,
+          true,
+          false,
+          true,
+          true
+        ],
+        [
+          true,
+          true,
+          true,
+          false,
+          true
+        ],
+        [
+          true,
+          true,
+          true,
+          true,
+          false
+        ]
+      ]
+    }
+  ]
+}

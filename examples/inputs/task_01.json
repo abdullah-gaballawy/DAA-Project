@@ -1,0 +1,27 @@
+{
+  "notice": "Draft INPUTS ONLY - no solver output or pass/fail claims",
+  "cases": [
+    {
+      "n": 1,
+      "coins": [
+        "H"
+      ]
+    },
+    {
+      "n": 1,
+      "coins": [
+        "T"
+      ]
+    },
+    {
+      "n": 5,
+      "coins": [
+        "H",
+        "T",
+        "H",
+        "H",
+        "T"
+      ]
+    }
+  ]
+}
