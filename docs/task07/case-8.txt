@@ -1,0 +1,8 @@
+Testers: 8 | Candidate barrels: 1000
+Possible: YES
+Radix: 3 | Capacity: 6561
+Simulated hidden barrel: 1000
+Outcome days: -, 30, 30, -, 30, -, -, -
+Decoded barrel: 1000
+Result: PASS
+Latest planned signal day: 31

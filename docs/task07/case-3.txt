@@ -1,0 +1,4 @@
+Testers: 3 | Candidate barrels: 1000
+Possible: NO
+Maximum outcomes under full 35-day window: 343
+No guaranteed unique identification.

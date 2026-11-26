@@ -1,0 +1,1 @@
+4 browser cases passed using Chromium with HTML loaded directly into the page. Local file navigation blocked by environment policy.
