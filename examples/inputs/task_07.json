@@ -1,14 +1,6 @@
-{
-  "notice": "Draft INPUTS ONLY - no solver output or pass/fail claims",
-  "cases": [
-    {
-      "testers": 10
-    },
-    {
-      "testers": 8
-    },
-    {
-      "testers": 7
-    }
-  ]
-}
+[
+  {"testers": 10, "barrel": 731, "expected_possible": true, "expected_decoded": 731},
+  {"testers": 8, "barrel": 1000, "expected_possible": true, "expected_decoded": 1000},
+  {"testers": 3, "barrel": 731, "expected_possible": false},
+  {"testers": 4, "barrel": 1, "expected_possible": true, "expected_decoded": 1}
+]
